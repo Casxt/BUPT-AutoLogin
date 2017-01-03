@@ -2,8 +2,8 @@
 import urllib
 from urllib import request
 import http.cookies
-schoolnumber = "2015210078"
-password = "753951Qwe"
+schoolnumber = "yong"
+password = "password"
 url = "http://gw.bupt.edu.cn/"
 ip = "http://10.3.8.212/"
 #若无法连接，吧ip的值改为ip2的值
